@@ -1,0 +1,160 @@
+/**********************************Tags***************************************/
+body {
+  text-align: center;
+  margin: 0;
+  background-color: #355764;
+}
+
+h1 {
+  color: #355764;
+  font-family: Lucida Handwriting;
+  margin: 50px auto 0 auto;
+}
+
+p {
+  color: #E8F9FD;
+  font-size: 20px;
+  padding-bottom: 50px;
+  font-family: 'Merriweather', serif;
+}
+
+h2 {
+  font-family: 'Work Sans', sans-serif;
+  color: #FCFFE7;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: 'Work Sans', sans-serif;
+  color: #FCFFE7;
+}
+
+/****************************************Classes******************************/
+.top {
+  background-color: #5A8F7B;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-top: 20px;
+  padding-top: 100px;
+  position: relative;
+  border-radius: 30px 30px 30px 30px;
+}
+
+.contact-me {
+  background-color: #6F9EAF;
+  margin-right: 15px;
+  border-style: dashed;
+  border-width: 5px;
+  margin-left: 15px;
+  border-color: #166678;
+  margin-top: 20px;
+  position: relative;
+  border-radius: 20px 30px 20px 30px;
+
+}
+.bottom{
+  background-color: #73A9AD;
+  margin: 0;
+  padding: 50px 0 20px;
+}
+.me {
+  border-radius: 50%;
+  border-color: #062C30;
+  border-width: 5px;
+  border-style: double;
+}
+
+.yuk-clo {
+  position: absolute;
+  left: 12%;
+  top: 50%;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #679982;
+  font-size: 16px;
+  background: #EFEFEF;
+  padding: 5px 10px 5px 10px;
+  border: solid  1px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #364968;
+  text-decoration: none;
+}
+
+.asa-clo {
+  position: absolute;
+  right: 17%;
+}
+
+.footer-link {
+  color: #EFEFEF;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #75BEDA;
+  text-decoration: none;
+}
+
+.furkan {
+  font-style: italic;
+}
+
+.top-clo {
+  position: absolute;
+  right: 30%;
+  top: 9%;
+}
+
+.bottom-clo {
+  position: absolute;
+  left: 33%;
+  bottom: 55%;
+}
+
+.dag {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.style-font {
+  font-family: Lucida Handwriting;
+  font-size: 2.5rem;
+}
+
+.styler-font {
+  font-family: Lucida Handwriting;
+  font-size: 5.5rem;
+}
+
+.nokta {
+  width: 3%;
+  border: none;
+  border-top: dotted 10px;
+  border-color: #06283D;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto ;
+  text-align: left;
+  line-height: 2;
+}
+.sa{
+  width: 25%;
+  float: left;
+  margin-right: 35px;
+  margin: auto;
+}
+.sas{
+  width: 25%;
+  float: right;
+  margin-right: 35px;
+  margin: auto;
+}
